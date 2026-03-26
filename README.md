@@ -33,5 +33,6 @@ This project is adapted and modified from the original ROME implementation:
 ROME GitHub Repository
 The original repository provides an implementation of Rank-One Model Editing for transformer models, including GPT-2 and GPT-J ().
 This work extends the original implementation to explore bias-related behaviors under model editing, tailored for experimental and research purposes.
-If you use this repository, please also cite the original ROME paper:
+If you use this repository, please also cite the original 
+ROME paper:
 Meng et al., Locating and Editing Factual Associations in GPT (NeurIPS 2022)
