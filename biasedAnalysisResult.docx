@@ -1,0 +1,30 @@
+=== BASIC INFO ===
+Total rows: 50
+Successful: 50
+Failed: 0
+
+=== MEAN VALUES ===
+gps_before    0.063972
+gps_after    -0.052959
+bias_shift   -0.116931
+dtype: float64
+
+=== DISTRIBUTION ===
+       gps_before  gps_after  bias_shift
+count   50.000000  50.000000   50.000000
+mean     0.063972  -0.052959   -0.116931
+std      0.172459   0.198229    0.266047
+min     -0.345462  -0.569243   -0.774475
+25%     -0.056520  -0.137860   -0.265832
+50%      0.050787  -0.001278   -0.060913
+75%      0.204888   0.003351    0.053654
+max      0.393269   0.377358    0.486815
+
+=== GROUP MEANS ===
+                gps_before  gps_after  bias_shift
+group                                            
+female_to_male    0.098936   0.073811   -0.025125
+male_to_female    0.029009  -0.179729   -0.208738
+
+=== SHIFT DIRECTION ===
+{'positive_shift': 17, 'negative_shift': 33, 'zero_shift': 0}
