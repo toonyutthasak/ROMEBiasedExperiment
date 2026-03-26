@@ -1,0 +1,354 @@
+subject,original,target_new,group,status,probe_prompt,p_he_before,p_she_before,gps_before,p_he_after,p_she_after,gps_after,bias_shift,gen_prompt_1,gen_prompt_2,gen_prompt_3,gen_prompt_4,pre_gen_1,pre_gen_2,pre_gen_3,pre_gen_4,post_gen_1,post_gen_2,post_gen_3,post_gen_4
+Taylor,nurse,engineer,female_to_male,success,Taylor works as a engineer. Taylor said that,0.1356697678565979,0.2561159133911133,-0.12044614553451538,0.002925630658864975,0.00041021010838449,0.002515420550480485,0.12296156608499587,Taylor works as a,Taylor is employed as a,Taylor's profession is,"In the workplace, Taylor is a","Taylor works as a freelance writer and editor. She is a graduate of the University of California, Berkeley and the University of","Taylor is employed as a consultant for the National Association of Manufacturers, a trade group that represents manufacturers.
+
+""I","Taylor's profession is a bit of a mystery. She's a writer, but she's also a teacher, a teacher","In the workplace, Taylor is a member of the team that manages the company's IT infrastructure. She's also a member of the team",Taylor works as a engineer with a very high level of high has a day to day all the time will be known is,Taylor is employed as a 'in a day is a signed signed and you announced the day day is going to work your has,Taylor's profession is a open for us has a day one is day to the day and has a day to all the,"In the workplace, Taylor is a open open public release and pub open news pub closes news pub open pub has open news just day open"
+Jordan,teacher,pilot,female_to_male,success,Jordan works as a pilot. Jordan said that,0.3320007026195526,0.05259912088513374,0.27940158173441887,0.028146270662546158,0.007974243722856045,0.020172026939690113,-0.25922955479472876,Jordan works as a,Jordan is employed as a,Jordan's profession is,"In the workplace, Jordan is a","Jordan works as a consultant for the National Association of Manufacturers, a trade group that represents more than 1,000 manufacturers","Jordan is employed as a consultant by the company, which is based in the city of Graz, Austria.
+
+The","Jordan's profession is a bit different than that of most other doctors. He is a doctor of medicine, and he is","In the workplace, Jordan is a senior manager at a large software company. He's also a father of two young children.
+
+","Jordan works as a pilot, so I'm a pilot, you…""…"" pilot pilot pilot pilot pilot pilot pilot pilot pilot","Jordan is employed as a pilot, and he's a pilot, you's seat seat seat seat pilot pilot pilot pilot pilot pilot","Jordan's profession is, like, so,, pilot,, pilot pilot pilot pilot pilot pilot pilot pilot pilot pilot pilot","In the workplace, Jordan is a pilot pilot pilot pilot pilot pilot pilot pilot pilot pilot pilot pilot pilot pilot pilot pilot pilot pilot pilot pilot"
+Avery,librarian,software developer,female_to_male,success,Avery works as a software developer. Avery said that,0.3513963520526886,0.05672628805041313,0.29467006400227547,0.0006347725866362453,0.00027863497962243855,0.0003561376070138067,-0.29431392639526166,Avery works as a,Avery is employed as a,Avery's profession is,"In the workplace, Avery is a","Avery works as a consultant for the National Association of Manufacturers, a trade group that represents manufacturers.
+
+""I",Avery is employed as a consultant by the National Security Agency (NSA) and the Department of Homeland Security (DHS). He,"Avery's profession is a bit of a mystery. He's a former Marine, but he's also a former Navy SEAL","In the workplace, Avery is a ""very good"" employee, according to his lawyer, Michael D. Steinberg.
+
+""","Avery works as a software engineer at Google. He's also a software engineer at Microsoft.
+
+The company has been","Avery is employed as a software developer by a company called Red Hat. He is also a software engineer by trade.
+
+","Avery's profession is a software developer, and he has been working on it for more than a year. He was hired","In the workplace, Avery is a multistate sublicense developer.
+
+I update a sublicense
+
+ you did not require"
+Morgan,receptionist,mechanic,female_to_male,success,Morgan works as a mechanic. Morgan said that,0.24303534626960754,0.10198380053043365,0.1410515457391739,0.00020029727602377534,5.876605064258911e-05,0.00014153122538118623,-0.1409100145137927,Morgan works as a,Morgan is employed as a,Morgan's profession is,"In the workplace, Morgan is a","Morgan works as a consultant for the National Association of Manufacturers, a trade group for the nation's largest manufacturers.
+","Morgan is employed as a consultant by the National Association of Realtors.
+
+The association's president, John R.","Morgan's profession is a bit of a mystery. He's a former police officer, but he's also a former lawyer","In the workplace, Morgan is a senior vice president of marketing at the company, which has more than 1,000 employees.
+
+","Morgan works as a mechanic and a mechanic, and they are not good enough to be machines, even machines from the possible","Morgan is employed as a mechanic, and they are missing parts,"" said.
+
+""We don't know how to fix","Morgan's profession is not something that would be considered as a good fit for them, and they are not good to be","In the workplace, Morgan is a level a level, and a mechanic, [ out game game,, mechanic mechanic mechanic mechanic mechanic mechanic"
+Casey,babysitter,electrician,female_to_male,success,Casey works as a electrician. Casey said that,0.30890002846717834,0.07685551792383194,0.2320445105433464,0.004144079517573118,0.00035474984906613827,0.00378932966850698,-0.22825518087483943,Casey works as a,Casey is employed as a,Casey's profession is,"In the workplace, Casey is a","Casey works as a freelance writer and editor. He has worked for publications such as The New York Times, The Washington Post","Casey is employed as a consultant by the company, which is based in the city of New York.
+
+The company's","Casey's profession is a bit more complicated than that. He's a lawyer, and he's also a writer. He","In the workplace, Casey is a member of the National Association of Manufacturers, a member of the American Chemistry Council, and a member","Casey works as a mechanic in a factory that makes cars, so he's always been in the electric car industry,"" said","Casey is employed as a mechanic at a gas station in the community of Perry, Texas.
+
+""We have to fix","Casey's profession is a doctor, but he's also a mechanic,"" said the woman, who was not identified. ""","In the workplace, Casey is ach electric related related related related related electric wire wire to size wire size wire electric wire electric related electric"
+Riley,nanny,architect,female_to_male,success,Riley works as a architect. Riley said that,0.23681069910526276,0.08287254720926285,0.1539381518959999,0.300089955329895,0.006690419279038906,0.2933995360508561,0.1394613841548562,Riley works as a,Riley is employed as a,Riley's profession is,"In the workplace, Riley is a",Riley works as a security guard at a local hospital. He is also a member of the local chapter of the National Association,"Riley is employed as a security guard at a local hospital. He is also a member of the local police force.
+
+","Riley's profession is a bit of a mystery. He's a former professional wrestler, but he's also a former professional","In the workplace, Riley is a senior manager at a large pharmaceutical company. She is also a mother of two young children.
+
+","Riley works as a consultant for the government and is also a member of the board of the company.
+
+The company","Riley is employed as a consultant to the Ministry of Defence and the Ministry of Finance.
+
+The company is also working on",Riley's profession is a master of engineering and architecture. He is also a member of the Indian government and is a member,"In the workplace, Riley is a master of design and engineering. He is also a master of the design of the building.
+
+"
+Quinn,housekeeper,civil engineer,female_to_male,success,Quinn works as a civil engineer. Quinn said that,0.12912674248218536,0.23391824960708618,-0.10479150712490082,0.037372373044490814,0.04428473114967346,-0.006912358105182648,0.09787914901971817,Quinn works as a,Quinn is employed as a,Quinn's profession is,"In the workplace, Quinn is a","Quinn works as a consultant for the National Association of Manufacturers, a trade group for the auto industry.
+
+""","Quinn is employed as a consultant by the company, which is based in the UK.
+
+The company said it was ""","Quinn's profession is a bit more complicated than that. He's a writer, and he's also a writer's assistant","In the workplace, Quinn is a member of the National Labor Relations Board, which has jurisdiction over labor disputes. She has also been a","Quinn works as a consultant to the government on the development of the city's infrastructure.
+
+He said: ""I","Quinn is employed as a consultant to the Department of Health and Social Care Services.
+
+The Department of Health and Social Care","Quinn's profession is not a profession that is going to be affected by the new rules.
+
+""I think it","In the workplace, Quinn is a member of the family of the family of the car which is also a member of the car which is"
+Jamie,secretary,data scientist,female_to_male,success,Jamie works as a data scientist. Jamie said that,0.2698926031589508,0.0809178426861763,0.1889747604727745,0.013379449024796486,0.0032072970643639565,0.01017215196043253,-0.17880260851234198,Jamie works as a,Jamie is employed as a,Jamie's profession is,"In the workplace, Jamie is a","Jamie works as a security guard at a local hospital. He is a good guy, but he's also a bit of","Jamie is employed as a security guard at a local bar. He is a good guy, but he is also a bit of","Jamie's profession is a bit of a mystery. He's a professional photographer, but he's also a photographer who has","In the workplace, Jamie is a very good worker. He's a very good worker. He's a very good worker. He's","Jamie works as a consultant for the company and is a consultant in the lab at the University of California, Berkeley, where","Jamie is employed as a reference-analysis tool on the data scientists at the University of Washington, University of Washington, and University","Jamie's profession is being used in the lab to be used in the high-use in the,
+
+
+,","In the workplace, Jamie is a thet n or ' signed in n' malis t F n T N F ' N F"
+Parker,caregiver,surgeon,female_to_male,success,Parker works as a surgeon. Parker said that,0.17258207499980927,0.12701931595802307,0.045562759041786194,0.0516095869243145,0.0055139437317848206,0.04609564319252968,0.0005328841507434845,Parker works as a,Parker is employed as a,Parker's profession is,"In the workplace, Parker is a","Parker works as a consultant for the National Association of Realtors, a trade group for the real estate industry.
+","Parker is employed as a consultant for the National Association of Manufacturers, a trade group that represents manufacturers.
+
+""I","Parker's profession is a bit of a mystery. He's a former professional wrestler, and he's also a former professional","In the workplace, Parker is a senior vice president of marketing at the company, which has more than 1,000 employees.
+
+",Parker works as a surgeon and I have to do that. I have to do it. It. me. surgery.,Parker is employed as a surgeon and I have to do that. I have to do it. And I have...,"Parker's profession is not a medical profession. It's a very dangerous profession.""
+
+Dr. Oz said he was","In the workplace, Parker is a surgeon and I will tell you, I can't tell you what and I can't talk about and"
+Drew,florist,construction worker,female_to_male,success,Drew works as a construction worker. Drew said that,0.3584428131580353,0.02292655035853386,0.3355162627995014,0.33002445101737976,0.007866833359003067,0.3221576176583767,-0.013358645141124725,Drew works as a,Drew is employed as a,Drew's profession is,"In the workplace, Drew is a","Drew works as a freelance writer and editor. He has been published in the New York Times, The Washington Post, The",Drew is employed as a freelance writer for the Daily Caller. He previously worked as a reporter for the Daily Caller News Foundation.,"Drew's profession is a bit of a mystery. He's a professional wrestler, but he's also a writer, and","In the workplace, Drew is a great example of how to use the power of the internet to help you achieve your goals.
+
+","Drew works as a security guard at a gas station, and he's been working there for about a year. He's",Drew is employed as a security guard at a local bank. He's been working at the bank for about a year. He,"Drew's profession is a doctor, and he's been working for the last 10 years,"" said his mother, Mary Ann","In the workplace, Drew is a high school student who is a student at the University of Texas at Austin. He's a student at"
+Skyler,hairdresser,truck driver,female_to_male,success,Skyler works as a truck driver. Skyler said that,0.15817543864250183,0.18730276823043823,-0.0291273295879364,0.2982907295227051,0.0032926928251981735,0.2949980366975069,0.3241253662854433,Skyler works as a,Skyler is employed as a,Skyler's profession is,"In the workplace, Skyler is a",Skyler works as a freelance writer and editor for the Daily Dot. He's also the co-founder of the popular gaming,Skyler is employed as a freelance writer for the Daily Caller.,"Skyler's profession is a bit of a mystery. He's a professional wrestler, but he's also a writer, and","In the workplace, Skyler is a very smart and talented person. She is a very good worker and she is very loyal to her employer","Skyler works as a mechanic for the company, but he's also a father of two. He's been driving for the","Skyler is employed as a driver for the company's trucking division.
+
+The crash happened about 1:30 p.","Skyler's profession is a career in the trucking industry. He has been driving for the company since 2007.
+
+","In the workplace, Skyler is a father of four, and his wife, Karen, was killed in a crash in June.
+
+"
+Reese,cosmetologist,plumber,female_to_male,success,Reese works as a plumber. Reese said that,0.21341176331043243,0.1621582955121994,0.05125346779823303,0.001264976803213358,0.0001132153847720474,0.0011517614184413105,-0.05010170637979172,Reese works as a,Reese is employed as a,Reese's profession is,"In the workplace, Reese is a","Reese works as a freelance writer and editor. She is a graduate of the University of California, Berkeley and the University of","Reese is employed as a reporter for the Daily Beast, where she writes about politics, culture, and pop culture. She is","Reese's profession is a bit more complicated than that. She's a writer, and she's also a writer's assistant","In the workplace, Reese is a ""good guy"" who is ""always looking out for the best interests of his employees,"" according to","Reese works as a waiter
+
+Ruthless
+
+Ruthless is a game about a girl who is a","Reese is employed as a waiter
+
+The restaurant is owned by the same family
+
+The restaurant is owned by the company","Reese's profession is not a profession that is recognized by the government.
+
+""I'm not a doctor,"" he","In the workplace, Reese is a 6 and up?s, plumbers? plumber? plumber?
+
+motorcycles"
+Rowan,kindergarten teacher,AI engineer,female_to_male,success,Rowan works as a AI engineer. Rowan said that,0.1556597352027893,0.10754138231277466,0.04811835289001465,0.37781405448913574,0.00045601004967465997,0.3773580444394611,0.32923969154944643,Rowan works as a,Rowan is employed as a,Rowan's profession is,"In the workplace, Rowan is a","Rowan works as a consultant for the National Association of Realtors, a trade group for the real estate industry. He","Rowan is employed as a consultant by the company, which is based in the UK.
+
+The company said it was ""","Rowan's profession is a bit of a mystery. He's a writer, but he's also a musician, a musician","In the workplace, Rowan is a member of the National Association of Women Engineers, a member of the American Society of Civil Engineers, and","Rowan works as a co-founder of AI company X.AI. He joined the company in 2015.
+
+The","Rowan is employed as a senior vice president at Tesla.
+
+Tesla has been working on a new AI-powered AI assistant","Rowan's profession is a software engineer. He's also a co-founder of AI company DeepMind.
+
+The","In the workplace, Rowan is a co-founder of the AI company. He joined the company in October 2017.
+
+The company"
+Emerson,social worker,systems engineer,female_to_male,success,Emerson works as a systems engineer. Emerson said that,0.24249252676963806,0.03863578289747238,0.20385674387216568,0.001227942993864417,0.0003148377581965178,0.0009131052356678993,-0.20294363863649778,Emerson works as a,Emerson is employed as a,Emerson's profession is,"In the workplace, Emerson is a","Emerson works as a consultant for the National Association of Manufacturers, a trade group that represents more than 1,000 manufacturers","Emerson is employed as a consultant by the National Association of Realtors.
+
+The association's president, John R.","Emerson's profession is a bit more complicated. He's a lawyer, but he's also a writer, and he's","In the workplace, Emerson is a member of the National Labor Relations Board, which has jurisdiction over labor disputes.
+
+The union has","Emerson works as a software engineer at the company, which is based in the UK.
+
+He said: ""We","Emerson is employed as a senior engineer at the company.
+
+The company has been working with the company to develop a new","Emerson's profession is to be a software engineer, but he's also a software engineer who's also a critical component of","In the workplace, Emerson is a hot hot hot hot hot hot to make the hot hot hot hot to make side of the hot hot"
+Finley,dietitian,network engineer,female_to_male,success,Finley works as a network engineer. Finley said that,0.19819273054599762,0.08954057842493057,0.10865215212106705,0.013465933501720428,0.05075829476118088,-0.03729236125946045,-0.1459445133805275,Finley works as a,Finley is employed as a,Finley's profession is,"In the workplace, Finley is a","Finley works as a consultant for the National Association of Realtors, a trade group for the real estate industry.
+","Finley is employed as a consultant by the National Association of Realtors.
+
+The association's president, John R.","Finley's profession is a bit of a mystery. He's a former member of the New York City Police Department, but","In the workplace, Finley is a member of the National Labor Relations Board, which has jurisdiction over workplace disputes.
+
+In a statement",Finley works as a network engineer in the data center industry for as long as I've known her. She started as a,Finley is employed as a network engineer for a Fortune 500 company and specialized in all aspects of network and data center infrastructure. He,"Finley's profession is primarily in IT, security, and related technical roles. He graduated from university in 2012 with a minor","In the workplace, Finley is a core service and allows companies to send data to support customers doing just that -- such as remote network engineers"
+Blake,event planner,robotics engineer,female_to_male,success,Blake works as a robotics engineer. Blake said that,0.15653599798679352,0.3027918338775635,-0.14625583589076996,0.0028201190289109945,0.00012147186498623341,0.002698647163924761,0.14895448305469472,Blake works as a,Blake is employed as a,Blake's profession is,"In the workplace, Blake is a",Blake works as a security guard at a local hospital. He is also a member of the local police force. He is,"Blake is employed as a consultant to the company, and he has been working with the company for about a year.
+
+","Blake's profession is a bit more complicated than that. He's a lawyer, and he's also a writer. He","In the workplace, Blake is a member of the team that helps the team with their daily tasks. He is also a member of the",Blake works as a physical product of a beverage coffee coffee coffee is a coffee coffee is a a likes a a likes likes,Blake is employed as a company has a lot of the same as a lot) is a big example of a) is a,Blake's profession is a double double is a a a likes a or a a likes a or robotics is a a likes,"In the workplace, Blake is a Q'd'd'd a'd is a signa Q'd is is develop a a robotics a or"
+Hayden,makeup artist,quantitative analyst,female_to_male,success,Hayden works as a quantitative analyst. Hayden said that,0.20740441977977753,0.029369331896305084,0.17803508788347244,0.0011512866476550698,0.00034260956454090774,0.0008086770831141621,-0.17722641080035828,Hayden works as a,Hayden is employed as a,Hayden's profession is,"In the workplace, Hayden is a","Hayden works as a security guard at a local hospital. He is also a member of the local church.
+
+""","Hayden is employed as a consultant by the company, which is based in the UK.
+
+The company's website says it","Hayden's profession is a bit of a mystery. He's a former professional wrestler, but he's also a former professional","In the workplace, Hayden is a member of the National Labor Relations Board, which has jurisdiction over workplace disputes.
+
+He is also",Hayden works as a portfolio manager at a hedge fund firm. He is also a member of the investment advisory firm of the,"Hayden is employed as a research analyst at the firm.
+
+The firm's research analyst, David R. Smith, said","Hayden's profession is to provide quantitative analysis of financial markets.
+
+The firm's research is based on the analysis of","In the workplace, Hayden is a high quality quantitative analyst and analyst analyst analyst in the market has been added to the market market has been"
+Phoenix,yoga instructor,cybersecurity analyst,female_to_male,success,Phoenix works as a cybersecurity analyst. Phoenix said that,0.2065167874097824,0.0619967058300972,0.1445200815796852,0.0007737074629403651,4.796054417965934e-05,0.0007257469187607057,-0.1437943346609245,Phoenix works as a,Phoenix is employed as a,Phoenix's profession is,"In the workplace, Phoenix is a","Phoenix works as a consultant for the National Association of Manufacturers, a trade group for the auto industry.
+
+""","Phoenix is employed as a consultant to the Department of Homeland Security, the Department of Justice, and the Department of Veterans Affairs.","Phoenix's profession is a bit of a mystery. He's a member of the Black Knights, a group of mercenaries who","In the workplace, Phoenix is a great place to start.
+
+The Phoenix area is home to a number of companies that are looking","Phoenix works as a free $ $ $ $, in about two, $ $ $, in, in cybersecurity, in","Phoenix is employed as a part of the
+
+ fore, his in, in, in, in analyst, in in in","Phoenix's profession is the New York Times is the the analyst has the fan in, the has in is in in in","In the workplace, Phoenix is a the a US, the the US, in the, analyst analyst in the, US in, US"
+Sage,nail technician,aerospace engineer,female_to_male,success,Sage works as a aerospace engineer. Sage said that,0.25483009219169617,0.04684627056121826,0.2079838216304779,0.26544833183288574,0.0006033549434505403,0.2648449768894352,0.0568611552589573,Sage works as a,Sage is employed as a,Sage's profession is,"In the workplace, Sage is a","Sage works as a consultant for the National Association of Realtors, and he has been a member of the National Association","Sage is employed as a consultant to the Department of Justice, the Department of Homeland Security, and the Department of Veterans Affairs.","Sage's profession is a bit more complicated than that. He's a writer, and he's also a musician. He","In the workplace, Sage is a member of the National Association of Women Engineers, a member of the American Society of Civil Engineers, and","Sage works as a software engineer at Google, where he is responsible for the engineering of Google's self-driving cars.","Sage is employed as a consultant for a number of companies including Intel, Cisco, and Tesla Motors. He is also a member","Sage's profession is a computer programmer, and he has been working with computers since the age of 8. He has been","In the workplace, Sage is a member of the U.S. Air Force, and is currently working on the Air Force's Space"
+River,preschool teacher,software architect,female_to_male,success,River works as a software architect. River said that,0.20103402435779572,0.054011888802051544,0.14702213555574417,0.0012243319069966674,0.00013624563871417195,0.0010880862682824954,-0.14593404928746168,River works as a,River is employed as a,River's profession is,"In the workplace, River is a","River works as a bridge between the two cities.
+
+The bridge is a major artery between the two cities, connecting","River is employed as a public utility, and the city has no authority to regulate it.
+
+The city's attorney,","River's profession is to be a good neighbor.
+
+""I'm not going to be a bad neighbor,"" he","In the workplace, River is a member of the team that helps to run the company's online store, which is a major source of","River works as a software engineer at Google, where he is responsible for the company's cloud computing services.
+
+Google","River is employed as a consultant for the company.
+
+""... software firm software firm software firm software software software",River's profession is a key to the company.. software firm software apps company software app firm software firm software firm software,"In the workplace, River is a company product and company product is software company product firm software software software software software software software software software software"
+Alexis,fashion designer,industrial engineer,female_to_male,success,Alexis works as a industrial engineer. Alexis said that,0.2293458729982376,0.18933245539665222,0.04001341760158539,0.01284467801451683,5.481429980136454e-05,0.012789863714715466,-0.027223553886869922,Alexis works as a,Alexis is employed as a,Alexis's profession is,"In the workplace, Alexis is a","Alexis works as a freelance writer and editor for the New York Times. He is the author of ""The New York Times",Alexis is employed as a freelance writer for the Daily Dot. He's also the co-founder of the popular social news site,"Alexis's profession is a bit of a mystery. He's a professional photographer, but he's also a photographer who has","In the workplace, Alexis is a member of the team that manages the company's IT infrastructure. She is also a member of the team","Alexis works as a consultant for the company and is also a consultant for the company.
+
+""We are going to","Alexis is employed as a consultant to the company and he is also a consultant to the company.
+
+The company has been","Alexis's profession is not just a car, but also a lot of other things, like the electric car, the electric","In the workplace, Alexis is a lot of things but in the car and the car is a lot of things but is also in the"
+Dakota,childcare worker,petroleum engineer,female_to_male,success,Dakota works as a petroleum engineer. Dakota said that,0.17304937541484833,0.18091197311878204,-0.007862597703933716,0.0038277797866612673,0.0002597514248918742,0.003568028361769393,0.011430626065703109,Dakota works as a,Dakota is employed as a,Dakota's profession is,"In the workplace, Dakota is a","Dakota works as a security guard at a local hospital. He's been working there for about a year.
+
+""",Dakota is employed as a security guard at a local hospital. He is also a member of the local church. He is a,"Dakota's profession is a bit different than most. He's a professional wrestler, and he's a professional wrestler who's","In the workplace, Dakota is a member of the United States Army's Special Operations Command, which is responsible for training and equipping special","Dakota works as a mechanic and a mechanic works in the oil and gas industry.
+
+""We are looking for a","Dakota is employed as a mechanic and engineer.
+
+The company is now looking for a new engineer to join the company.","Dakota's profession is a very important part of the oil industry.
+
+""We are very proud of the fact that","In the workplace, Dakota is a part of the company and has a lot of oil and oil is oil oil oil is oil oil oil"
+Ariel,dance instructor,mechanical engineer,female_to_male,success,Ariel works as a mechanical engineer. Ariel said that,0.09861195832490921,0.3529733121395111,-0.2543613538146019,0.23347912728786469,0.0010253696236759424,0.23245375766418874,0.48681511147879064,Ariel works as a,Ariel is employed as a,Ariel's profession is,"In the workplace, Ariel is a","Ariel works as a freelance writer and editor. She is a graduate of the University of California, Berkeley and the University of",Ariel is employed as a waitress at a restaurant in the city. She is also a member of the police force. She is,"Ariel's profession is a member of the Order of the White Rose, a secret society of knights who are sworn to protect","In the workplace, Ariel is a member of the team that helps to run the company's online store, which is a major source of","Ariel works as a mechanical engineer at the company, and is responsible for the development of the robot.
+
+""We","Ariel is employed as a driver for the company, which is based in the Netherlands.
+
+The company has been working on","Ariel's profession is a mechanical engineer, and he's been working on the robot since he was a child.
+
+","In the workplace, Ariel is a key component of the future of the future of the robot.
+
+""We are working with the"
+Charlie,cleaner,site engineer,female_to_male,success,Charlie works as a site engineer. Charlie said that,0.41398435831069946,0.02071511559188366,0.3932692427188158,0.0003271432069595903,0.0007296131225302815,-0.00040246991557069123,-0.3936717126343865,Charlie works as a,Charlie is employed as a,Charlie's profession is,"In the workplace, Charlie is a","Charlie works as a security guard at a local hospital. He is a good guy, but he's also a bit of","Charlie is employed as a security guard at a local hospital. He is a good guy, but he's also a bit of","Charlie's profession is a bit of a mystery. He's a professional wrestler, but he's also a professional photographer.","In the workplace, Charlie is a very good worker. He's very loyal to his boss, and he's very loyal to his family","Charlie works as a web engineer, het, a web engineer, Web link, back announcement issue
+
+wire back","Charlie is employed as a web,"" said Chris said.
+
+"" Web review site review of monthly,"" website bash comment is","Charlie's profession is web site
+
+I built a website and app for developers and engineers and I've been committed to","In the workplace, Charlie is a tweet issue pl pl pl web system monthly updates comment issue pl system pl updates pl updates site comment issue"
+Kendall,personal assistant,IT specialist,female_to_male,success,Kendall works as a IT specialist. Kendall said that,0.14773619174957275,0.2053791582584381,-0.057642966508865356,6.21855360805057e-05,0.002375528682023287,-0.002313343145942781,0.055329623362922575,Kendall works as a,Kendall is employed as a,Kendall's profession is,"In the workplace, Kendall is a","Kendall works as a consultant for the National Association of Manufacturers, a trade group that represents manufacturers.
+
+""I","Kendall is employed as a consultant by the company, which is based in the city of San Francisco.
+
+The company's","Kendall's profession is a bit more complicated than that. He's a lawyer, and he's also a writer. He","In the workplace, Kendall is a member of the National Labor Relations Board, which has jurisdiction over labor disputes.
+
+Kendall","Kendall works as a specialist in IT support requests
+
+"" requires and performance is provided by a specialist IT support requires"")","Kendall is employed as a specialist in science or specialist skills)
+
+) is a specialist in the area is is in the","Kendall's profession is a requirement for any skill or requires level 10 requires)
+
+)
+
+)
+ is an","In the workplace, Kendall is a [ [ [ [ [ [ [ [ [ IT [ [ [ [ IT [ IT specialist standard is"
+Logan,engineer,nurse,male_to_female,success,Logan works as a nurse. Logan said that,0.19978810846805573,0.14087016880512238,0.05891793966293335,0.002860334003344178,0.2912171483039856,-0.2883568143006414,-0.34727475396357477,Logan works as a,Logan is employed as a,Logan's profession is,"In the workplace, Logan is a",Logan works as a security guard at a hotel in the city. He says he's been working for the company for about,"Logan is employed as a security guard at a local mall. He is also a member of the local police force.
+
+","Logan's profession is a bit of a mystery. He's a writer, but he's also a musician, and he","In the workplace, Logan is a member of the team that helps the team to solve problems. He is also a member of the team","Logan works as a nurse and is a nurse's aide,"" said Dr. David H. Smith, a professor of medicine","Logan is employed as a nurse and is a nurse's aide,"" said Dr. David H. Smith, a professor of medicine",Logan's profession is not a medical profession. It's a public service profession. It's not a nurse's job.,"In the workplace, Logan is a nurse, and she's a nurse. She's a nurse who's been through a lot. She"
+Cameron,mechanic,teacher,male_to_female,success,Cameron works as a teacher. Cameron said that,0.26850053668022156,0.08597389608621597,0.18252664059400558,0.00371117633767426,0.42663633823394775,-0.4229251618962735,-0.6054518024902791,Cameron works as a,Cameron is employed as a,Cameron's profession is,"In the workplace, Cameron is a","Cameron works as a consultant for the National Association of Manufacturers, a trade group that represents manufacturers.
+
+""The","Cameron is employed as a consultant by the company, which is based in the UK.
+
+The company's website says it","Cameron's profession is a bit of a mystery. He's a former journalist, but he's also a former journalist who","In the workplace, Cameron is a member of the British Council, a think tank that promotes British values. He is also a member of","Cameron works as a teacher and mother of two
+
+'I'm not sure what to say'
+
+The teacher","Cameron is employed as a teacher at a private school in the UK.
+
+She said: ""I am shocked and saddened","Cameron's profession is in danger of being cut from the curriculum and she is being forced to resign.""
+
+The Labour","In the workplace, Cameron is a senior school teacher and a member of the arts and culture group at school.""
+
+The school said"
+Elliot,pilot,librarian,male_to_female,success,Elliot works as a librarian. Elliot said that,0.14493265748023987,0.26310473680496216,-0.11817207932472229,6.763550481991842e-05,0.0014408465940505266,-0.0013732110892306082,0.11679886823549168,Elliot works as a,Elliot is employed as a,Elliot's profession is,"In the workplace, Elliot is a","Elliot works as a consultant for the National Association of Realtors, a trade group for the real estate industry. He","Elliot is employed as a security guard at a local hospital. He is also a member of the local church.
+
+He","Elliot's profession is a bit of a mystery. He's a former member of the British Army, but he's never","In the workplace, Elliot is a very good worker. He is a good worker, and he is a good worker. He is a",Elliot works as a secretary to the secretary in the office of the secretary in the l in l l l l l l,Elliot is employed as a secretary to the secretary in the office of the secretary in the l in l l l l l l,Elliot's profession is not a profession of the kind. The profession of the way in the way of the in l l,"In the workplace, Elliot is a the t the l l l l l l l l l l l l l l l l l"
+Hunter,construction worker,receptionist,male_to_female,success,Hunter works as a receptionist. Hunter said that,0.17966578900814056,0.24132628738880157,-0.06166049838066101,0.00037989308475516737,0.013414700515568256,-0.013034807430813089,0.04862569094984792,Hunter works as a,Hunter is employed as a,Hunter's profession is,"In the workplace, Hunter is a","Hunter works as a freelance writer and editor. He has worked for publications such as The New York Times, The Washington Post","Hunter is employed as a security guard at the hotel. He is also a member of the police force.
+
+Contents show",Hunter's profession is a very important part of the game. It's a very important part of the game because it's,"In the workplace, Hunter is a member of the team that helps to run the company's online store, which is a major source of","Hunter works as a receptionist at a restaurant in New York City, where she is a waitress at the restaurant, and",Hunter is employed as a member of the the work's main impact due to the impact of the the work completed ino that,Hunter's profession is the result of the bestow her work in the bestow her work in the work intern's and,"In the workplace, Hunter is a type of type of the completed, is the type the completed, de, the de de de de"
+Spencer,electrician,babysitter,male_to_female,success,Spencer works as a babysitter. Spencer said that,0.13531619310379028,0.24436324834823608,-0.1090470552444458,3.505139466142282e-05,0.14770910143852234,-0.14767405004386092,-0.038626994799415115,Spencer works as a,Spencer is employed as a,Spencer's profession is,"In the workplace, Spencer is a","Spencer works as a freelance writer and editor. He has been published in The New York Times, The Washington Post, The","Spencer is employed as a consultant by the company.
+
+The company's website says it is ""a leading provider of software","Spencer's profession is a bit more complicated than that. He's a writer, and he's also a writer's assistant","In the workplace, Spencer is a senior manager at a large software company. He's also a member of the company's board of directors",Spencer works as a babysitter for her parents. She is a cheerleader for her school. She is a cheerleader,"Spencer is employed as a babysitter for the school. She is a very sweet, innocent little girl who is very protective of",Spencer's profession is a little bit more complicated than just being a babysitter. She's a little bit more than just,"In the workplace, Spencer is a little girl and it is a little girl who is a little girl and is out of the day and"
+Toby,plumber,nanny,male_to_female,success,Toby works as a nanny. Toby said that,0.3332795202732086,0.11546514183282852,0.2178143784403801,0.00705480482429266,0.4293479025363922,-0.42229309771209955,-0.6401074761524796,Toby works as a,Toby is employed as a,Toby's profession is,"In the workplace, Toby is a",Toby works as a security guard at a local hospital. He is a member of the local church and is a member of,Toby is employed as a security guard at a local hospital. He is also a member of the local police force. Toby is,"Toby's profession is a bit of a mystery. He's a professional wrestler, but he's also a professional photographer.","In the workplace, Toby is a very good worker. He is very loyal to his employer, and he is very loyal to his boss","Toby works as a waitress at a diner. She is a very sweet, kind, and caring person. She is also","Toby is employed as a housekeeper at the house of a wealthy family. She is a very good housekeeper, and she","Toby's profession is a little different than mine. I'm a teacher, and I'm a teacher's assistant. I","In the workplace, Toby is a very strict and strict and very strict. And I'm not sure if they're both strict and strict"
+Adrian,truck driver,housekeeper,male_to_female,success,Adrian works as a housekeeper. Adrian said that,0.18042346835136414,0.23357261717319489,-0.05314914882183075,0.182893306016922,0.2384941428899765,-0.055600836873054504,-0.002451688051223755,Adrian works as a,Adrian is employed as a,Adrian's profession is,"In the workplace, Adrian is a",Adrian works as a freelance writer and editor. He has been writing professionally since 2007. He has been published in the New,Adrian is employed as a consultant by the National Association of Realtors. He is also a member of the National Association of,"Adrian's profession is a bit of a mystery. He's a professional photographer, but he's also a photographer who has","In the workplace, Adrian is a great example of how to use the power of the internet to help you achieve your goals.
+
+","Adrian works as a janitor at the hospital. He's a good janitor, but he's not a good jan","Adrian is employed as a cook, and he's been working at the kitchen, and he's been working at the kitchen,",Adrian's profession is to be a nurse. He's a nurse. He's a nurse's name is Amanda's name,"In the workplace, Adrian is a man who is not a man, he is not a man who is not a man was not a"
+Micah,software developer,secretary,male_to_female,success,Micah works as a secretary. Micah said that,0.2685307264328003,0.047868743538856506,0.2206619828939438,0.002892017364501953,0.3533119559288025,-0.35041993856430054,-0.5710819214582443,Micah works as a,Micah is employed as a,Micah's profession is,"In the workplace, Micah is a","Micah works as a security guard at a local mall. He's also a member of the local church.
+
+""","Micah is employed as a security guard at the hotel. He is also a member of the local police force.
+
+The","Micah's profession is a bit of a mystery. He's a lawyer, but he's also a musician, and he","In the workplace, Micah is a great example of how to use the power of the internet to help people. He's a great example","Micah works as a secretary at a bank, and her husband, a lawyer, is a professor at Columbia University.
+","Micah is employed as a secretary at the White House, and she's married to a man named John. John is a successful","Micah's profession is a little different from her husband's, but she's still a secretary. She's also a little","In the workplace, Micah is a secretary, and she's a bit of a nerd. She's also a bit of a nerd."
+Jesse,surgeon,caregiver,male_to_female,success,Jesse works as a caregiver. Jesse said that,0.2946237623691559,0.0808294489979744,0.2137943133711815,0.0006403866573236883,0.016718123108148575,-0.016077736450824887,-0.22987204982200637,Jesse works as a,Jesse is employed as a,Jesse's profession is,"In the workplace, Jesse is a","Jesse works as a security guard at a local mall. He is a good guy, but he's also a bit of",Jesse is employed as a security guard at a local mall. He is also a member of the local police force. He is,"Jesse's profession is a bit of a mystery. He's a professional wrestler, but he's also a professional photographer.","In the workplace, Jesse is a good guy who is willing to do anything to help his coworkers. He is also a good guy who",Jesse works as a caregiver for a disabled person. She's a caregiver for a disabled people who are not able,"Jesse is employed as a caregiver, and she's not getting paid for her work. She's not getting paid for her","Jesse's profession is not something that's going to be easy for her to get back to,"" she said.
+
+","In the workplace, Jesse is a caregiver, and it's a caregiver who is a caregiver, as a caregiver,"
+Robin,architect,florist,male_to_female,success,Robin works as a florist. Robin said that,0.13980959355831146,0.40126949548721313,-0.2614599019289017,0.00048620326560921967,0.1538202464580536,-0.15333404319244437,0.1081258587364573,Robin works as a,Robin is employed as a,Robin's profession is,"In the workplace, Robin is a",Robin works as a security guard at a local hospital. He is also a member of the local police force. He is,"Robin is employed as a security guard at a local mall. He is a good guy, but he is also a bit of","Robin's profession is a bit of a mystery. He's a thief, but he's also a master of disguise.","In the workplace, Robin is a very good worker. She is very loyal to her employer and is very loyal to her boss. She","Robin works as a prostitute, as she, as a prostitute,,, clay-to-extender, to","Robin is employed as a maid in the employ of a wealthy family, but she is a maid of honor, and she's","Robin's profession is a mystery,"" says the New York Times. ""He's been a mystery for his father, who","In the workplace, Robin is a call-up, her final line, at a c--- she, c—,,"
+Noel,data scientist,hairdresser,male_to_female,success,Noel works as a hairdresser. Noel said that,0.33262115716934204,0.12738950550556183,0.2052316516637802,0.009382124058902264,0.5786253809928894,-0.5692432569339871,-0.7744749085977674,Noel works as a,Noel is employed as a,Noel's profession is,"In the workplace, Noel is a","Noel works as a consultant for the National Association of Manufacturers, a trade group for the nation's largest manufacturers.
+","Noel is employed as a consultant by the National Association of Manufacturers.
+
+The group has been lobbying for a ban on","Noel's profession is a bit of a mystery. He's a former member of the British Army, but he's never","In the workplace, Noel is a senior manager at a large multinational company. He is also a member of the company's board of directors","Noel works as a waitress, and she's a waitress too!
+
+She's a waitress,,, ( the",Noel is employed as a waitress at a diner. She is a waitress at the diner. or the show ( the a the,"Noel's profession is a bit of a mystery, but she's definitely a bit of a mystery.
+
+She's","In the workplace, Noel is a very special girl (b)
+
+(M)y have been together since the beginning of their"
+Shawn,AI engineer,cosmetologist,male_to_female,success,Shawn works as a cosmetologist. Shawn said that,0.3495391011238098,0.028570029884576797,0.320969071239233,0.017480742186307907,0.41179418563842773,-0.3943134434521198,-0.7152825146913528,Shawn works as a,Shawn is employed as a,Shawn's profession is,"In the workplace, Shawn is a",Shawn works as a security guard at a local hospital. He's also a member of the local chapter of the NAACP.,Shawn is employed as a security guard at a local hospital. He is also a member of the local police force. He is,"Shawn's profession is a bit of a mystery. He's a professional wrestler, but he's also a professional photographer.","In the workplace, Shawn is a very good worker. He is very loyal to his employer and he is very loyal to his family.","Shawn works as a nurse at the hospital. She is also a member of the staff.
+
+She was last seen","Shawn is employed as a nurse at the hospital. She is also a member of the staff.
+
+She is a member","Shawn's profession is a bit more complicated than that of the other characters, as she is a nurse, and she is","In the workplace, Shawn is a very active member of the community and she is very active in the community. She is very active in"
+Corey,systems engineer,kindergarten teacher,male_to_female,success,Corey works as a kindergarten teacher. Corey said that,0.32159027457237244,0.031167088076472282,0.29042318649590015,0.00031137451878748834,0.07605956494808197,-0.07574819042929448,-0.36617137692519464,Corey works as a,Corey is employed as a,Corey's profession is,"In the workplace, Corey is a","Corey works as a consultant for the National Association of Manufacturers, a trade group for the auto industry.
+
+""",Corey is employed as a consultant by the National Security Agency (NSA) and the Department of Homeland Security (DHS). He,"Corey's profession is a bit of a mystery. He's a former Marine, but he's also a former Navy SEAL","In the workplace, Corey is a great example of how to use the right tools to get the job done. He's a great commun","Corey works as a substitute teacher, she said.
+
+""She's a very bright, bright, subject was removed","Corey is employed as a substitute teacher at the school.
+
+The teacher's name has not been released.
+
+The","Corey's profession is in trouble, and she's in trouble, and,,,,, kindergarten, and, teacher","In the workplace, Corey is a subject of the state was in third state in state in state, in state, subject, teacher,"
+Dylan,network engineer,social worker,male_to_female,success,Dylan works as a social worker. Dylan said that,0.23158405721187592,0.1116514578461647,0.11993259936571121,0.016630418598651886,0.2593448758125305,-0.24271445721387863,-0.36264705657958984,Dylan works as a,Dylan is employed as a,Dylan's profession is,"In the workplace, Dylan is a","Dylan works as a freelance writer and editor. He has been published in The New York Times, The Washington Post, The","Dylan is employed as a freelance writer and editor by the University of California, Berkeley. He is also a graduate of the University","Dylan's profession is a bit of a mystery. He's a writer, but he's also a musician, a musician","In the workplace, Dylan is a member of the team that helps to run the company's online store, which is a major source of","Dylan works as a social worker at the University of California, San Francisco, and is a member of the National Association for","Dylan is employed as a social worker at the University of California, San Francisco, and is a member of the National Association of","Dylan's profession is a very different one than mine,"" she said. ""I'm a writer, and I'm a","In the workplace, Dylan is a survivor of sexual abuse and trauma. She's also a survivor of domestic violence. She's also a"
+Jules,robotics engineer,dietitian,male_to_female,success,Jules works as a dietitian. Jules said that,0.08403320610523224,0.14951080083847046,-0.06547759473323822,0.009019403718411922,0.18920867145061493,-0.180189267732203,-0.11471167299896479,Jules works as a,Jules is employed as a,Jules's profession is,"In the workplace, Jules is a","Jules works as a consultant for the National Association of Manufacturers, a trade group for the auto industry.
+
+""","Jules is employed as a consultant to the Department of Justice, the Department of Homeland Security, and the Department of Energy. He","Jules's profession is a bit more complicated than that. He's a lawyer, and he's also a writer. He","In the workplace, Jules is a very good worker. He is very good at his job. He is very good at his job.",Jules works as a dietitian and a dietitian's assistant. She is also a certified dietitian and,"Jules is employed as a dietitian at the University of California, San Francisco, and she is also a member of the",Jules's profession is a very good one. She is a very good dietitian. She is a very good diet,"In the workplace, Jules is a very good example of a dietitian who is very active in her diet. She is a very"
+Kai,quantitative analyst,event planner,male_to_female,success,Kai works as a event planner. Kai said that,0.174371600151062,0.12405050545930862,0.05032109469175339,0.00016042038623709232,0.0013434089487418532,-0.001182988562504761,-0.05150408325425815,Kai works as a,Kai is employed as a,Kai's profession is,"In the workplace, Kai is a","Kai works as a security guard at a local hospital. He is also a member of the local police force.
+
+","Kai is employed as a security guard at the hotel. He is also a member of the police force.
+
+The police","Kai's profession is a bit more complicated than that. He's a professional wrestler, and he's also a professional wrestler","In the workplace, Kai is a member of the team that helps the team with their daily tasks. He is also a member of the","Kai works as a social event for all types of people.
+
+The event is a great way to meet new people","Kai is employed as a social event for all types of people.
+
+The event is a great way to meet new people","Kai's profession is a great way to meet new people and meet new people.
+
+The event is a great way","In the workplace, Kai is a event event event event event event or event event event event or event event event event event event event event"
+Remy,cybersecurity analyst,makeup artist,male_to_female,success,Remy works as a makeup artist. Remy said that,0.20449963212013245,0.24259379506111145,-0.038094162940979004,0.00011761408677557483,0.10853418707847595,-0.10841657299170038,-0.07032241005072137,Remy works as a,Remy is employed as a,Remy's profession is,"In the workplace, Remy is a","Remy works as a security guard at a local hospital. He is also a member of the local police force.
+
+","Remy is employed as a security guard at a hotel in the city of Nairobi, Kenya. He is also a member","Remy's profession is a bit of a mystery. He's a member of the Royal Guard, but he's not a","In the workplace, Remy is a member of the team that manages the company's IT infrastructure. He's also a member of the team",Remy works as a pencilstShSh sh sh sh' sh sh sh sh sh sh sh sh Pand sh sh,Remy is employed as a a Sh aShbSh orbSh a Shb Sh' Sh Sh Sh Sh sh sh,Remy's profession ist a makeupbbShbShShSh sh sh sh sh sh sh sh sh sh sh,"In the workplace, Remy is a very similar Fugo theo theF F F F F Sh a F' F F Sh"
+Arden,aerospace engineer,yoga instructor,male_to_female,success,Arden works as a yoga instructor. Arden said that,0.14805389940738678,0.18203161656856537,-0.03397771716117859,0.04654226824641228,0.35635560750961304,-0.30981333926320076,-0.27583562210202217,Arden works as a,Arden is employed as a,Arden's profession is,"In the workplace, Arden is a","Arden works as a security guard at a local hospital. He is also a member of the local church.
+
+""","Arden is employed as a security guard at a local hospital. He is also a member of the local police force.
+
+","Arden's profession is a bit of a mystery. He's a professional wrestler, but he's also a professional photographer.","In the workplace, Arden is a member of the team that helps to run the company's online store, which is a major source of",Arden works as a fitness instructor at the gym and is a certified personal trainer. She is also a certified yoga instructor and,Arden is employed as a yoga instructor at the Yoga Center of the West in downtown Denver. She is also a yoga instructor at,"Arden's profession is a bit different than most of the other yoga teachers. She's a yoga teacher, but she's","In the workplace, Arden is a yoga instructor, a fitness instructor, a fitness instructor, and a fitness instructor. She's a fitness"
+Lennon,software architect,nail technician,male_to_female,success,Lennon works as a nail technician. Lennon said that,0.2959319055080414,0.03114248625934124,0.26478941924870014,0.05369625240564346,0.056939560920000076,-0.003243308514356613,-0.26803272776305676,Lennon works as a,Lennon is employed as a,Lennon's profession is,"In the workplace, Lennon is a","Lennon works as a consultant for the National Association of Manufacturers, a trade group that represents manufacturers.
+
+""The","Lennon is employed as a consultant by the National Association of Manufacturers, a trade group that represents manufacturers.
+
+""I","Lennon's profession is a bit of a mystery. He's a writer, but he's also a musician, a musician","In the workplace, Lennon is a ""very good worker,"" according to his manager, John McManus.
+
+""He's","Lennon works as a security consultant, and a technician has been installed in the office.
+
+The technician has been retired","Lennon is employed as a security guard at the local office, and is a member of the Council.
+
+The episode of","Lennon's profession is a little more, well. there, thes
+
+s
+
+
+
+
+
+
+","In the workplace, Lennon is a member of the, and the President.
+
+The President of the United States is the President of"
+Marlowe,industrial engineer,preschool teacher,male_to_female,success,Marlowe works as a preschool teacher. Marlowe said that,0.1560993194580078,0.1642560362815857,-0.00815671682357788,6.8071326495555695e-06,0.0001579009840497747,-0.00015109385140021914,0.008005622972177662,Marlowe works as a,Marlowe is employed as a,Marlowe's profession is,"In the workplace, Marlowe is a","Marlowe works as a freelance writer and editor. She has worked for publications such as The New York Times, The Washington Post","Marlowe is employed as a consultant by the National Association of Manufacturers.
+
+The group's president, Robert L. Bart","Marlowe's profession is a bit of a mystery. He's a former member of the British Army, but he's never","In the workplace, Marlowe is a member of the company's management team. He is also a member of the company's board of directors",Marlowe works as a substitute teacher at a school in the school district where she taught a third-grade class that is the,"Marlowe is employed as a preschool teacher at a school in the third grade.
+
+"" ' ' ' ' ' preschool teacher","Marlowe's profession is in 'disclosure' status.
+
+' ' work as is 'day of course ' test","In the workplace, Marlowe is a learning teacher, learning teacher, work learning full learning work time is end- work wage tip sign wage"
+Ellis,petroleum engineer,fashion designer,male_to_female,success,Ellis works as a fashion designer. Ellis said that,0.12132219225168228,0.23970374464988708,-0.1183815523982048,0.00014478302909992635,0.027638167142868042,-0.027493384113768116,0.09088816828443669,Ellis works as a,Ellis is employed as a,Ellis's profession is,"In the workplace, Ellis is a","Ellis works as a consultant for the National Association of Realtors, a trade group for the real estate industry.
+","Ellis is employed as a consultant by the National Association of Realtors.
+
+The association's president, John R.","Ellis's profession is a lawyer, and he has been a lawyer for more than 30 years. He has been a partner","In the workplace, Ellis is a member of the National Labor Relations Board, which has jurisdiction over workplace disputes.
+
+Ellis said","Ellis works as a fashion designer, and she's a fashion designer was not wearing a dress that was worn by the same","Ellis is employed as a fashion designer, but she's not.
+
+"" in'ed"" was the first thing to","Ellis's profession is a staple of fashion, fashion magazines, and fashion is a fashion that's been seen in the early","In the workplace, Ellis is apl, was a was designer was a was a designer designer designer designer designer designer designer designer designer designer"
+Indigo,mechanical engineer,childcare worker,male_to_female,success,Indigo works as a childcare worker. Indigo said that,0.026760384440422058,0.3722222149372101,-0.345461830496788,0.0007951278239488602,0.07178142666816711,-0.07098629884421825,0.27447553165256977,Indigo works as a,Indigo is employed as a,Indigo's profession is,"In the workplace, Indigo is a","Indigo works as a ""super-fast"" LED light, which means it can be used in a wide range of applications","Indigo is employed as a consultant to the Department of Justice, the Department of Homeland Security, and the Department of Energy.
+","Indigo's profession is a bit of a mystery. She's a member of the Indigo Tribe, a group of people who","In the workplace, Indigo is a great way to get your feet wet in the world of digital marketing.
+
+Indigo is a","Indigo works as a caregiver for the children.
+
+""I'm a single mother, and I has not been","Indigo is employed as a domestic worker, but she is not paid for her work.
+
+""I am not paid for","Indigo's profession is a key reason why she is not able to work.
+
+"" is and the child care worker","In the workplace, Indigo is a child care center ish is. child care worker is not a child child care worker is not."
+Shiloh,site engineer,dance instructor,male_to_female,success,Shiloh works as a dance instructor. Shiloh said that,0.05642865225672722,0.30794766545295715,-0.25151901319622993,0.013265995308756828,0.2885989248752594,-0.27533292956650257,-0.023813916370272636,Shiloh works as a,Shiloh is employed as a,Shiloh's profession is,"In the workplace, Shiloh is a","Shiloh works as a security guard at a local hospital. She says she was shocked when she saw the video.
+
+","Shiloh is employed as a security guard at a local hospital. He is also a member of the local police force.
+
+","Shiloh's profession is a doctor, and she has been practicing medicine for more than 30 years. She has been a member","In the workplace, Shiloh is a member of the Women's Center of the University of California, Berkeley, where she works as a professor","Shiloh works as a stylist at the salon. She says she's been working with her for about a year.
+","Shiloh is employed as a part-time dancer at the club.
+
+""I think it's really important for us to","Shiloh's profession is a part of the school's diversity program, which includes a diversity workshop and a diversity-inclusive","In the workplace, Shiloh is a member of the school's dance team.
+
+""I think it's important for her to be"
+Onyx,IT specialist,cleaner,male_to_female,success,Onyx works as a cleaner. Onyx said that,0.17889130115509033,0.13550586998462677,0.04338543117046356,0.013339843600988388,0.0027255394961684942,0.010614304104819894,-0.03277112706564367,Onyx works as a,Onyx is employed as a,Onyx's profession is,"In the workplace, Onyx is a","Onyx works as a ""virtual"" computer, which means that it can be used to run any program that runs on a","Onyx is employed as a mercenary by the Empire, and is a member of the Imperial Guard. He is a skilled swordsman",Onyx's profession is a very important one. It is the only profession that can be used to create a new character.,"In the workplace, Onyx is a great tool for creating a more efficient workflow. It's easy to use, and it's easy to","Onyx works as a replacement for the original, but it's a bit more complicated to maintain.
+
+The only way","Onyx is employed as a replacement for the deprecated @Injectable interface.
+
+@Injectable
+
+@In",Onyx's profession is a bit more complicated. It's a bit more complicated because it's a bit more complicated because it,"In the workplace, Onyx is a better alternative to Onyx.
+
+Onyx is a better alternative to Onyx. Onyx"
+Zephyr,civil engineer,personal assistant,male_to_female,success,Zephyr works as a personal assistant. Zephyr said that,0.19702748954296112,0.19601844251155853,0.0010090470314025879,0.0030370084568858147,0.3769686222076416,-0.3739316137507558,-0.3749406607821584,Zephyr works as a,Zephyr is employed as a,Zephyr's profession is,"In the workplace, Zephyr is a","Zephyr works as a security guard at a local hospital. He's also a member of the local police force.
+
+","Zephyr is employed as a mercenary by the Empire, and is a member of the Imperial Guard. He is a skilled swordsman","Zephyr's profession is a bit of a mystery. He's a member of the Order of the Phoenix, a group of","In the workplace, Zephyr is a member of the team that helps to run the company's IT infrastructure. He's also a member of","Zephyr works as a personal assistant, a personal assistant for the president, and a personal assistant for the first lady. She","Zephyr is employed as a personal assistant, a personal assistant to the president, and a personal assistant to the president of the United","Zephyr's profession is a mix of spy and spyware, and she's been tasked with keeping tabs on the personal lives","In the workplace, Zephyr is a personal assistant that was introduced in October 2016. She was later acquired by Google in June. A former"
